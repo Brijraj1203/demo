@@ -108,5 +108,9 @@ public class Patterns {
 			System.out.println();
 		}
 	}
+	public static void square()
+	{
+
+	}
 
 }
