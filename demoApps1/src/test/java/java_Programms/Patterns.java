@@ -110,6 +110,7 @@ public class Patterns {
 	}
 	public static void square()
 	{
+		System.out.println("Square pattern method");
 
 	}
 
